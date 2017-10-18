@@ -25,6 +25,8 @@ If a minion has the "charge" ability, they may attack on that turn with no delay
 If a minion has the "windfury" ability, they may attack twice upon their turn
 when a minion is "silenced" it loses all of its special effects
 If a weapon card is played while you currently have one equipped, the current one is overwritten
+Your weapon loses 1 durability upon being used
+If your weapon loses all durability, it is removed from the board
 You may only have 1 of a certain legendary card in your deck at a time
 Each player draws a card every turn
 If the player chooses to, they may concede, losing instantly
