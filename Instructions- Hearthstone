@@ -1,3 +1,6 @@
+Create a deck of 30 cards for the Hero you want to play
+Shuffle the cards into a random order, and put them into the draw pile
+Find an opponent who does not have the same Hero as you
 Flip a coin after you and your opponent decide on heads or tails
 If you lost the coin toss, you go second  If you won, you go first
 If you lost, wait for your opponent to play their turn  If you won, you will have 1 mana, so play a card costing 1 mana if available
@@ -13,6 +16,5 @@ If you played Shaman, use the power to get a random boost totem  If you played P
 If you played Hunter, use the power to deal 2 damage to the enemy Hero  If you played Priest, you may heal yourself if you took damage
 If you played Warlock, use the power to draw a card  If you played Druid, use the power to equip a weapon, and use it to attack this turn
 If you played Rogue, use your power to get a 1 Durability, 1 Damage weapon, and attack this turn  If you did not play Rogue, continue to the next step
-Use any remaining mana you may have on a spell, or minion
-If you have no mana, end your turn
+If you have any remaining mana, you may have on a spell, or minion  If you have no mana, end your turn
 On the rest of your turns, continue the strategy of playing minions, and using your hero ability
