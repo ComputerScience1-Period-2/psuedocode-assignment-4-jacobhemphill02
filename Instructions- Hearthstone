@@ -1,0 +1,18 @@
+Flip a coin after you and your opponent decide on heads or tails
+If you lost the coin toss, you go second  If you won, you go first
+If you lost, wait for your opponent to play their turn  If you won, you will have 1 mana, so play a card costing 1 mana if available
+If you do not have a card costing 1 mana, end your turn
+Let your opponent play their next turn
+Now upon your 2nd turn, look for a minion or spell card costing 2 mana, and play it   If you have the mana coin from going second, play the mana coin for a 3 cost card, or save it for later
+If you played a card on your first turn, and survived, use them to attack the enemy hero now  If you did not play a card on turn 1, end your turn
+Now wait for your opponent to play their turn
+If your opponent played minions that turn, you should use your existing minions to kill theirs  If your opponent has no minions, use your minions to deal more damage to their hero
+Now that it is turn 3, you should certainly have enough mana to use your hero power this turn
+If you played Warrior, use the power to gain 2 armor    If you played Mage, use the power to deal 1 damage to the enemy Hero
+If you played Shaman, use the power to get a random boost totem  If you played Paladin, use the power to summon a 1 HP 1 Attack minion
+If you played Hunter, use the power to deal 2 damage to the enemy Hero  If you played Priest, you may heal yourself if you took damage
+If you played Warlock, use the power to draw a card  If you played Druid, use the power to equip a weapon, and use it to attack this turn
+If you played Rogue, use your power to get a 1 Durability, 1 Damage weapon, and attack this turn  If you did not play Rogue, continue to the next step
+Use any remaining mana you may have on a spell, or minion
+If you have no mana, end your turn
+On the rest of your turns, continue the strategy of playing minions, and using your hero ability
