@@ -1,0 +1,30 @@
+You must choose one of the nine heroes available
+You can only have 30 cards in your deck maximum
+Whoever goes second gets the mana coin
+To determine who goes first, flip a coin
+The player who goes first draws three starting cards
+Each player starts with 30 HP
+Every time a player runs out of mana that turn, or ends their turn, it is the next players turn
+A player only has 1 minute to complete their turn
+You may only play a card if you have the required amount of mana to play it
+Some cards have special abilities that may activate under certain conditions
+If a card is attacked, and it reaches 0 HP, it is removed from the board
+If a Hero attacks a card, the hero takes damage equivalent to that cards attack power
+Each players mana crystals are restored on their next turn
+The maximum mana pool a character may have is 10
+The maximum amount of cards you may have in your hand is 10
+You may only have 1 hero weapon equipped at a time
+You can have a maximum of seven minions on your side of the board at a time
+A hero can only attack when it has a weapon equipped
+Your minions must wait 1 turn before being able to attack
+If a player has no cards in their deck anymore, they will take damage starting at 1, and increasing by 1 each turn
+If a minion has the ability "taunt" your minions, hero, and spells may only attack that card
+If a minion has the "battlecry" ability, its special effect is activated upon being played
+If a minion has the "divine shield" ability, it can take any amount of damage for 1 turn, and lose no health at the cost of the shield
+If a minion has the "charge" ability, they may attack on that turn with no delay
+If a minion has the "windfury" ability, they may attack twice upon their turn
+when a minion is "silenced" it loses all of its special effects
+If a weapon card is played while you currently have one equipped, the current one is overwritten
+You may only have 1 of a certain legendary card in your deck at a time
+Each player draws a card every turn
+If the player chooses to, they may concede, losing instantly
