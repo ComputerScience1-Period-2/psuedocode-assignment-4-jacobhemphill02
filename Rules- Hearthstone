@@ -1,5 +1,7 @@
 You must choose one of the nine heroes available
 You can only have 30 cards in your deck maximum
+You can only have 2 of each card in your deck
+You may only have 1 of a legendary card in your deck at a time
 You start the game with 3 cards, and you may swap any combination of the 3 out for the top 3 in your deck, only before the game starts
 Whoever goes second gets the mana coin, which awards them 1 extra mana on a chosen turn, and four cards from their deck
 The mana coin only has 1 use
@@ -31,7 +33,6 @@ when a minion is "silenced" it loses all of its special effects
 If a weapon card is played while you currently have one equipped, the current one is overwritten
 Your weapon loses 1 durability upon being used
 If your weapon loses all durability, it is removed from the board
-You may only have 1 of a certain legendary card in your deck at a time
 Each player draws a card every turn
 If the player chooses to, they may concede, losing instantly
 If a card is "frozen" it may not do anything until the next turn
