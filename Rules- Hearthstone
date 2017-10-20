@@ -1,6 +1,8 @@
 You must choose one of the nine heroes available
 You can only have 30 cards in your deck maximum
-Whoever goes second gets the mana coin
+You start the game with 3 cards, and you may swap any combination of the 3 out for the top 3 in your deck, only before the game starts
+Whoever goes second gets the mana coin, which awards them 1 extra mana on a chosen turn, and four cards from their deck
+The mana coin only has 1 use
 To determine who goes first, flip a coin
 The player who goes first draws three starting cards
 Each player starts with 30 HP
@@ -8,7 +10,7 @@ Every time a player runs out of mana that turn, or ends their turn, it is the ne
 A player only has 1 minute to complete their turn
 You may only play a card if you have the required amount of mana to play it
 Some cards have special abilities that may activate under certain conditions
-If a card is attacked, and it reaches 0 HP, it is removed from the board
+If a minion card is attacked, and it reaches 0 HP, it is removed from the board
 If a Hero attacks a card, the hero takes damage equivalent to that cards attack power
 Each players mana crystals are restored on their next turn
 The maximum mana pool a character may have is 10
@@ -17,6 +19,7 @@ You may only have 1 hero weapon equipped at a time
 You can have a maximum of seven minions on your side of the board at a time
 A hero can only attack when it has a weapon equipped
 Your minions must wait 1 turn before being able to attack
+A minion may only attack once per turn (Except if it has the Windfury condition)
 If a player has no cards in their deck anymore, they will take damage starting at 1, and increasing by 1 each turn
 If a minion has the ability "taunt" your minions, hero, and spells may only attack that card
 If a minion has the "battlecry" ability, its special effect is activated upon being played
@@ -31,6 +34,8 @@ If your weapon loses all durability, it is removed from the board
 You may only have 1 of a certain legendary card in your deck at a time
 Each player draws a card every turn
 If the player chooses to, they may concede, losing instantly
-You may not play a mirror match (same Heroes)
 If a card is "frozen" it may not do anything until the next turn
 Your hero power may only be used once per turn, and only on your turn
+Cards labeled "Wild" may only be used in "Wild" duels (duels that allow all cards to be used)
+You can not attack your own Hero, or minions
+Spells may not be attacked, and are used instantly
