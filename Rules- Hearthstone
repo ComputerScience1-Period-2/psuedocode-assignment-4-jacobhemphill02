@@ -23,6 +23,7 @@ If a minion has the "battlecry" ability, its special effect is activated upon be
 If a minion has the "divine shield" ability, it can take any amount of damage for 1 turn, and lose no health at the cost of the shield
 If a minion has the "charge" ability, they may attack on that turn with no delay
 If a minion has the "windfury" ability, they may attack twice upon their turn
+If a minion has the "death rattle" ability, an ability is activated whenever that minion dies
 when a minion is "silenced" it loses all of its special effects
 If a weapon card is played while you currently have one equipped, the current one is overwritten
 Your weapon loses 1 durability upon being used
